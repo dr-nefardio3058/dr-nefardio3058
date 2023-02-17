@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dr-nefardio3058</h1>
 <h3 align="center">I like code</h3>
 
-- 🔭 I’m currently working on [Programacion Full Stack](https://eggcooperation.com/ar/)
+- 🔭 I’m currently working on [Programación Full Stack](https://eggcooperation.com/ar/)
 
 - 🌱 I’m currently learning *JavaScript*
 
